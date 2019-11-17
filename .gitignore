@@ -1,0 +1,14 @@
+.vs
+.DS_Store
+appsettings.json
+appsettings.Development.json
+*.db
+*.csproj.user
+API/bin
+API/obj
+Application/bin
+Application/obj
+Domain/bin
+Domain/obj
+Persistence/bin
+Persistence/obj
