@@ -3,7 +3,7 @@
 appsettings.json
 appsettings.Development.json
 *.db
-*.csproj.user
+*.user
 API/bin
 API/obj
 Application/bin
