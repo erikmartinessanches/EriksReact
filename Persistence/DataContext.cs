@@ -13,6 +13,7 @@ namespace Persistence
         }
 
         public DbSet<Value> Values { get; set; } //"Values" will be used for the table name.
+        public DbSet<Activity> Activities { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
